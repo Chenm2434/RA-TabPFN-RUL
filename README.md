@@ -8,7 +8,7 @@ This is the **fast access version** with preprocessed data. For the full pipelin
 
 ### 1. Download Preprocessed Data
 
-Download `data.zip` from [GitHub Release](https://github.com/<username>/RA-TabPFN-RUL/releases/download/v1.0/data.zip) and extract to the `data/` directory:
+Download `data.zip` from [GitHub Release](https://github.com/Chenm2434/RA-TabPFN-RUL/releases/download/v1.0/data.zip) and extract to the `data/` directory:
 
 ```
 data/
